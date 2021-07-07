@@ -1,0 +1,14 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(#9cb8e6,#7aa0de,#4d81d6);
+}
+img
+{
+    height: 250px;
+    width: 250px;
+}
+a
+{
+ color: white;
+}
